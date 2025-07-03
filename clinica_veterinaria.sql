@@ -1,4 +1,4 @@
-1. Criação do Banco de Dados (se necessário, ou use um existente)
+-- 1. Criação do Banco de Dados (se necessário, ou use um existente)
 CREATE DATABASE ClinicaVeterinariaDB;
 GO
 USE ClinicaVeterinariaDB;
